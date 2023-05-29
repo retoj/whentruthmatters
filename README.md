@@ -1,2 +1,2 @@
 # whentruthmatters
-Repository with Fine-Tuning datasets mentioned in the paper.
+Repository with Fine-Tuning datasets and goldstandard-dataset mentioned in the paper.
